@@ -1,1 +1,1 @@
-# Project1 CartQuantity
+# Project JavaScript
